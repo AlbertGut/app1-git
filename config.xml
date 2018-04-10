@@ -17,8 +17,8 @@ Alberto Gutierrez Perez
 
 <!--Personaliza la aplicacion y plataforma -->
 <preference name="orientation" value="default"/>
-<!-- "preference name="orientacion" value="portrait"/>
-<!--preference name="orientacion" value="landscape"/> -->
+<!-- "preference name="orientation" value="portrait"/>
+<!--preference name="orientation" value="landscape"/> -->
 <preference name="target-device" value="universal"/>
 <preference name="fullscreen" value="true"/>
 <preference name="android-installLocation" value="auto"/>
@@ -26,9 +26,9 @@ Alberto Gutierrez Perez
 
 <!--Plugins-->
 <!--Core plugins-->
-<plugin name="cordova-plugin-device" apec="~1.1.4"/>
-<plugin name="cordova-plugin-vibration" apec="~2.1.3"/>
-<plugin name="cordova-plugin-dialogs" apec="~1.3.1"/>
+<plugin name="cordova-plugin-device" spec="~1.1.4"/>
+<plugin name="cordova-plugin-vibration" spec="~2.1.3"/>
+<plugin name="cordova-plugin-dialogs" spec="~1.3.1"/>
 
 <!-- <plugin name="cordova-plugin-geolocation" source="npm"/> -->
 <!-- Third part plugins-->
